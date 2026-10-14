@@ -1,7 +1,7 @@
 # Crédito Hipotecario · API
 
 Backend de una aplicación de crédito hipotecario: inicio de sesión, menú según el tipo de usuario y cambio de contraseña con historial.
-El frontend está en [credito-hipotecario-web](https://github.com/Jmurga16/credito-hipotecario-web).
+El frontend está en [credito-hipotecario-web](https://github.com/josemurgadev/credito-hipotecario-web).
 
 Proyecto de práctica (2023) centrado en aplicar **Clean Architecture** en .NET.
 
